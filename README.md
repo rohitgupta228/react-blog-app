@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">It is a simple Blog Post App made using with react and redux. Here you can add, edit, delete and like the blog. <a href="http://expressjs.com" target="_blank">ExpressJS</a>.</h4>
+<h4 align="center">It is a simple Blog Post App made using with react and redux. Here you can add, edit, delete and like the blog</h4>
 
 ## Key Features
 
@@ -29,6 +29,7 @@ $ npm install
 
 # Run the frontend
 $ npm run dev
+```
 
 ## Available Scripts
 
@@ -49,4 +50,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
-```
